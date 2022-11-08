@@ -4,6 +4,8 @@ manage complete Front-End application development steps. I speak Turkish and Eng
 
 - 🔭 I’m currently working on web application
 - 📫 How to reach me: mesutkaya2000@gmail.com
+- My Youtube Channel: https://www.youtube.com/@cengmesutkaya
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
